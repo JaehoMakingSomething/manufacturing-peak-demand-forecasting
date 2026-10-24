@@ -1,0 +1,5 @@
+scenario,model,MAE_kW,peak_MAE_kW,peak_underprediction_mean_kW,extreme_MAE_kW,RMSE_kW,n_hours,n_peak_hours,provenance
+A,LightGBM,7.881,7.593,6.782,8.385,10.753,383,56,stored_notebook_output_not_rerun
+A,RandomForest,7.497,7.578,7.075,9.264,10.519,383,56,stored_notebook_output_not_rerun
+B,LightGBM,6.077,7.265,6.003,8.011,8.137,383,56,stored_notebook_output_not_rerun
+B,RandomForest,6.558,8.032,6.985,8.130,9.479,383,56,stored_notebook_output_not_rerun
